@@ -1,1 +1,10 @@
 
+{
+    "clientID":"idbota",
+    "clientSecret":"clientsecret",
+    "callbackURL":"http://localhost:port/login/api", //jeśli używasz hostingu to zmień tak aby było na końcu /login/api
+    "Admin":["Adminid"],
+    "token":"token",
+    "prefix":"-",
+    "port":"portstrony"
+}
